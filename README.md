@@ -1,12 +1,11 @@
 # Hi, I’m Taher
 
-## I'm a full stack developer and a cloud enthusiast & I've worked across a set of technologies including
+## I'm a full stack developer, cloud enthusiast and a linux enthusiast & I've worked across a set of technologies including
 
 ### Frontend frameworks
 - React
 - Angular
 - Vue
-- Electron
 
 ### Backend technologies
 - NodeJS
@@ -29,7 +28,7 @@
 - Bootstrap
 - Materialize
 - Modular CSS
-- SASS
+- sass
 
 ### Testing Libraries
 - Puppeteer
@@ -40,6 +39,12 @@
 - Raspberry Pi
 - ESP8266
 
-### Hybrid and Cross-platform
+### JAM and Cross-platform
 - NextJS
 - React Native
+
+### DevOps
+- Docker
+- K8 (microk8s)
+- Nginx
+- Apache

@@ -1,6 +1,6 @@
 # Hi, I’m Taher
 
-## I'm a full stack developer, cloud enthusiast and a linux enthusiast & I've worked across a set of technologies including
+## I'm a Full Stack Engineer, DevOps Engineer, Cloud Engineer and Web3 enthusiast & I've worked across a set of technologies including
 
 ### Frontend frameworks
 - React
@@ -11,7 +11,7 @@
 - NodeJS
 - Django
 - Flask
-- PHP7
+- Laravel
 
 ### Databases
 - MySQL
@@ -41,10 +41,11 @@
 
 ### JAM and Cross-platform
 - NextJS
+- Gatsby
 - React Native
+- Flutter
 
 ### DevOps
 - Docker
-- K8 (microk8s)
-- Nginx
-- Apache
+- K8 (microk8s & EKS)
+- ECS

@@ -47,5 +47,5 @@
 
 ### DevOps
 - Docker
-- K8 (microk8s & EKS)
+- k8s (microk8s & EKS)
 - ECS

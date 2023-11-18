@@ -1,6 +1,6 @@
 # Hi, I’m Taher
 
-## I'm a Full Stack Engineer, DevOps Engineer, Cloud Engineer and Web3 enthusiast & I've worked across a set of technologies including
+## I'm a Full Stack Engineer, DevOps Engineer, Cloud Engineer and a product enthusiast & I've worked across a set of technologies including
 
 ### Frontend frameworks
 - React
